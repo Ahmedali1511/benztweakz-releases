@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.0/BenzTweakz.exe",
-  "sha256": "bc0f9cdb8ee57c32c7d44e0101057291580c61c69e964d92432810bf37d639d1",
-  "notes": "Session reports now show temperatures, your real Fortnite server ping and what changed since last time. Hardware Check checks every monitor (one-click fix) and really reads Resizable BAR. System Health tracks GPU driver resets, game crashes and hardware errors.",
-  "sig": "cVdcBzDqoBDBkKZgESlO2WwZKjR2Joco1_HJYGSyBsqGI-CTAYQIIOzjqJb9XB6ZFTt8PDVg940UKF0SgSHxBg"
+  "version": "1.3.1",
+  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.1/BenzTweakz.exe",
+  "sha256": "6eb22b89b294d00d4ce49911961033ae4ff232ebacaafe6cd1d7b9f4aa4d8f1f",
+  "notes": "New FOR MY PC level (default): everything up to Ultra, minus only what would break something on your PC - it checks your apps, printer, Bluetooth, laptop or desktop and drive type, and tells you what it left out and why.",
+  "sig": "NhnS3G_HMeKOaba9v4WgO1FkpBl6PvK81G3J5nSTIa4J8blXvzTHtmQiFubx4uSWHbvyOQOjBJXBH5kjZNh9iA"
 }
