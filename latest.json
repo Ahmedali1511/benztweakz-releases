@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.1/BenzTweakz.exe",
-  "sha256": "6eb22b89b294d00d4ce49911961033ae4ff232ebacaafe6cd1d7b9f4aa4d8f1f",
-  "notes": "New FOR MY PC level (default): everything up to Ultra, minus only what would break something on your PC - it checks your apps, printer, Bluetooth, laptop or desktop and drive type, and tells you what it left out and why.",
-  "sig": "NhnS3G_HMeKOaba9v4WgO1FkpBl6PvK81G3J5nSTIa4J8blXvzTHtmQiFubx4uSWHbvyOQOjBJXBH5kjZNh9iA"
+  "version": "1.3.2",
+  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.2/BenzTweakz.exe",
+  "sha256": "ba6742e7a3107d36e186d6ac65af7e452770d52218a247f500dbc97de0db9c3b",
+  "notes": "FOR MY PC now asks a few quick questions first (do you play Xbox-app games, print, use Bluetooth, see flicker...) and shows what each tweak gains and costs, so it turns on everything you do not actually need left alone.",
+  "sig": "Hr8Z9nuiERW55MOuFgvihbqX_AvKvcKxP4l421MykAzZGR3gE-f2D43OK5DJNAcFNOr0JD7wcnSUN9AWOY8sig"
 }
