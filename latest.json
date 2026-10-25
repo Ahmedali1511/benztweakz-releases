@@ -1,7 +1,7 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.2/BenzTweakz.exe",
-  "sha256": "ba6742e7a3107d36e186d6ac65af7e452770d52218a247f500dbc97de0db9c3b",
-  "notes": "FOR MY PC now asks a few quick questions first (do you play Xbox-app games, print, use Bluetooth, see flicker...) and shows what each tweak gains and costs, so it turns on everything you do not actually need left alone.",
-  "sig": "Hr8Z9nuiERW55MOuFgvihbqX_AvKvcKxP4l421MykAzZGR3gE-f2D43OK5DJNAcFNOr0JD7wcnSUN9AWOY8sig"
+  "version": "1.3.3",
+  "url": "https://github.com/Ahmedali1511/benztweakz-releases/releases/download/v1.3.3/BenzTweakz.exe",
+  "sha256": "42ae7ae0237936eb00ed3bb88ab127e19bdda0040258bf077683a97abc8c16c3",
+  "notes": "FOR MY PC now also offers to turn OFF tweaks that are on but do not fit your PC (like C-states off or MPO off from an old Extreme run).",
+  "sig": "URe0rm_-ypOGTAYe00PvaBz-CDGzhKboREoNU818pwlGgWDrRRvkkpqno0ZtG9pcM2VcK8GzW1DtxF25o1oJ8A"
 }
